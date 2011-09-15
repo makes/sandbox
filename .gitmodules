@@ -1,0 +1,3 @@
+[submodule "modules/sub"]
+	path = modules/sub
+	url = git://github.com/makes/dummy-sub.git
